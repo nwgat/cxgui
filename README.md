@@ -10,3 +10,9 @@ a gui to capture raw files for vhs-decode
 | rtsp Player      | Plays a network rtsp source like from a go2rtc server |
 | VHS Control      | Lets you control a VHS Player by using a Arduino with IR or another service like home assistant if you haved it set up as endpoints |
 | Capture Device (TODO) | select the cx capture device
+
+# Install
+
+* working cxadc driver setup on windows (disable secure boot)
+* cxadc-win-tool.exe in same folder as cxgui
+* pip3 install python-vlc requests
