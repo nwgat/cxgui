@@ -1,5 +1,5 @@
 # cxgui
-a gui to capture raw files for vhs-decode
+a gui to capture raw files from cxadc-win-tool for use with vhs-decode
 
 | Features         | Description                          |
 |------------------|--------------------------------------|
