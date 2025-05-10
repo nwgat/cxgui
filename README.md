@@ -13,6 +13,6 @@ a gui to capture raw files from cxadc-win-tool for use with vhs-decode
 
 # Install
 
-* working cxadc driver setup on windows (disable secure boot)
+* working cxadc driver setup on windows (disabled secure boot, disabled enforced driver signing)
 * cxadc-win-tool.exe in same folder as cxgui
 * pip3 install python-vlc requests
