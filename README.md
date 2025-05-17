@@ -1,4 +1,5 @@
 # cxgui
+![](cxgui.svg)
 a gui to capture raw files from cxadc-win-tool for use with vhs-decode
 
 | Features         | Description                          |
