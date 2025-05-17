@@ -1,0 +1,42 @@
+<svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+            <rect x="10" y="10" width="180" height="100" rx="5" ry="5" fill="#333" stroke="#222" stroke-width="1"/>
+
+            <rect x="15" y="15" width="170" height="20" fill="#f0f0f0" />
+            <text x="100" y="29" font-family="Monospace, Courier, monospace" font-size="12" fill="#333" text-anchor="middle" font-weight="bold">CXGUI</text>
+
+            <circle cx="55" cy="65" r="18" fill="#222" />
+            <circle cx="55" cy="65" r="15" fill="#111" />
+            <circle cx="55" cy="65" r="5" fill="#444" />
+            <circle cx="55" cy="50" r="1.5" fill="#444" />
+            <circle cx="67" cy="57" r="1.5" fill="#444" />
+            <circle cx="67" cy="73" r="1.5" fill="#444" />
+            <circle cx="55" cy="80" r="1.5" fill="#444" />
+            <circle cx="43" cy="73" r="1.5" fill="#444" />
+            <circle cx="43" cy="57" r="1.5" fill="#444" />
+
+
+            <circle cx="145" cy="65" r="18" fill="#222" />
+            <circle cx="145" cy="65" r="15" fill="#111" />
+            <circle cx="145" cy="65" r="5" fill="#444" />
+            <circle cx="145" cy="50" r="1.5" fill="#444" />
+            <circle cx="157" cy="57" r="1.5" fill="#444" />
+            <circle cx="157" cy="73" r="1.5" fill="#444" />
+            <circle cx="145" cy="80" r="1.5" fill="#444" />
+            <circle cx="133" cy="73" r="1.5" fill="#444" />
+            <circle cx="133" cy="57" r="1.5" fill="#444" />
+
+            <rect x="78" y="50" width="44" height="30" fill="#1a1a1a" rx="2" ry="2" />
+            <rect x="80" y="52" width="40" height="26" fill="rgba(0,0,0,0.2)" stroke="#555" stroke-width="0.5" rx="1" ry="1" />
+            <ellipse cx="100" cy="65" rx="18" ry="8" fill="rgba(50,50,50,0.7)" />
+
+
+            <rect x="15" y="85" width="170" height="15" fill="#ddd" />
+            <text x="100" y="96" font-family="Arial, sans-serif" font-size="7" fill="#555" text-anchor="middle">VIDEO CASSETTE GUI</text>
+
+            <rect x="20" y="40" width="10" height="5" fill="#444" />
+            <rect x="170" y="40" width="10" height="5" fill="#444" />
+
+            <path d="M10 35 L15 40 L15 80 L10 85 Z" fill="#282828" />
+            <path d="M190 35 L185 40 L185 80 L190 85 Z" fill="#282828" />
+
+        </svg>
