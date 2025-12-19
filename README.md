@@ -16,21 +16,17 @@ It is designed to run silently as a windowed application (`.pyw`) without persis
 * **Device Management:** Auto-detects video/audio devices and specific CXADC hardware paths.
 * **Crash Safety:** Includes custom exception hooks and logging to catch errors even when running in "No Console" mode.
 
-## Prerequisites
+## Installation
 
-### 1. Python Libraries
-* Install the required dependencies:
-* pip install PyQt6 python-mpv wmi requests
+* `python3 -m pip install PyQt6 python-mpv wmi requests` (Windows)
+* `pip install PyQt6 python-mpv requests` (Linux)
 (Note: wmi is only required on Windows)
 
-### 2. External Tools
 FFmpeg: Must be installed and added to your system PATH.
-* Windows: Download from gyan.dev, extract, and add the bin folder to Environment Variables.
-* Linux: sudo apt install ffmpeg
+* `choco install ffmpeg flac mpv` (Windows)
+* `sudo apt install ffmpeg flac mpv libmpv-dev` (Ubuntu)
 
-Libmpv:
-* Windows: You need the mpv-1.dll (or libmpv-2.dll). Place it in the same folder as this script.
-* Linux: sudo apt install libmpv-dev mpv
+note on Windows: You need the mpv-1.dll (or libmpv-2.dll). Place it in the same folder as this script.
 
 ## Installation
 * Clone this repository.
