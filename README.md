@@ -11,7 +11,7 @@ It is designed to run silently as a windowed application (`.pyw`) without persis
 * **Simultaneous Recording:**
     * Dump raw RF (for software decoding/VHS-decode).
     * Record conventional Video+Audio (`.mkv`) from the preview stream.
-    * Record Audio-only (`.flac`) for Hi-Fi capture.
+    * Record Audio-only from preview stream (`.flac`) for high quality audio capture.
 * **Cross-Platform:** Works on Windows (DirectShow + WMI) and Linux (V4L2 + ALSA + Sysfs).
 * **Device Management:** Auto-detects video/audio devices and specific CXADC hardware paths.
 * **Crash Safety:** Includes custom exception hooks and logging to catch errors even when running in "No Console" mode.
